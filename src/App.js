@@ -1,10 +1,4 @@
-import {
-	RecoilRoot,
-	atom,
-	selector,
-	useRecoilState,
-	useRecoilValue
-} from 'recoil'
+import { RecoilRoot } from 'recoil'
 
 import { Input } from './components/Input'
 import { Text } from './components/Text'
